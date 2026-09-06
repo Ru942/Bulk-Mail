@@ -169,7 +169,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 **Rupesh K R**
 - GitHub: [@Ru942](https://github.com/Ru942)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: www.linkedin.com/in/rupesh-k-r-70864a204
 
 ---
 
