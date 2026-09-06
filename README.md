@@ -136,10 +136,14 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📸 Screenshots
 
-<img width="1917" height="863" alt="Screenshot 2026-09-06 120550" src="https://github.com/user-attachments/assets/81fa7353-2c07-4c57-b56e-37c56f5f779a" />
+<img width="1917" height="866" alt="Screenshot 2026-09-06 120302" src="https://github.com/user-attachments/assets/24cccfbf-b338-49ae-bf8f-b624caffcb95" />
 
+<img width="1917" height="862" alt="Screenshot 2026-09-06 120328" src="https://github.com/user-attachments/assets/39fdb3ed-66eb-47fc-9578-b4c8c15bec56" />
 
----
+<img width="1917" height="867" alt="Screenshot 2026-09-06 120343" src="https://github.com/user-attachments/assets/34fe6cfe-8686-4a6c-bb83-9669dbb5241a" />
+
+<img width="1917" height="868" alt="Screenshot 2026-09-06 120355" src="https://github.com/user-attachments/assets/e195856f-7914-4683-8784-2c7e4f0804dc" />
+
 
 ## 🔑 Environment Variables
 
