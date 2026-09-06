@@ -136,7 +136,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📸 Screenshots
 
-> Add your app screenshots here
+<img width="1917" height="863" alt="Screenshot 2026-09-06 120550" src="https://github.com/user-attachments/assets/81fa7353-2c07-4c57-b56e-37c56f5f779a" />
+
 
 ---
 
