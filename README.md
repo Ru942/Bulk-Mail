@@ -1,4 +1,4 @@
-# 📧 Bulk Mail App
+# 📧 Bulk Mail
 
 A full-stack web application to send bulk emails to multiple recipients at once — with admin authentication, Excel/CSV upload support, email logs, and a clean dashboard UI.
 
