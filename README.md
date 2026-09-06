@@ -4,7 +4,7 @@ A full-stack web application to send bulk emails to multiple recipients at once 
 
 **Live Demo:** https://bulk-mail-app-liard-six.vercel.app/
 
-**Github Link:** 
+**Github Link:** https://github.com/Ru942/Bulk-Mail-App
 
 ---
 
